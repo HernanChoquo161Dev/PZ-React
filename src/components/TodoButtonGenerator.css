@@ -1,0 +1,23 @@
+.TodoButtonGenerator{
+  background-color: #845EC2;
+
+  color: #FFFFFF;
+  font-size: 2rem;
+  font-weight: 700;
+
+  padding: 2rem 2.5rem;
+  margin-top: 2rem;
+
+  border: none;
+  outline: none;
+  
+  border-radius: 100%;
+  box-shadow: 0px 2px 6px 0px #4B4453;
+
+  transition-duration: .5s;
+}
+
+.TodoButtonGenerator:hover{
+  background-color:#C493FF;
+  transform: scale(1.1);
+}

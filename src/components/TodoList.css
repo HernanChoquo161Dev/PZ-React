@@ -1,0 +1,9 @@
+.TodoList{
+  background-color: #00C9A7;
+
+  padding: 2rem;
+  padding-bottom: 0;
+
+  border-radius: 1rem;
+  box-shadow: 0px 10px 10px 0px rgba(77,128,118,1);
+}
